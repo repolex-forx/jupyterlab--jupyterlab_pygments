@@ -1,0 +1,11 @@
+{
+  "org": "jupyterlab",
+  "repo": "jupyterlab_pygments",
+  "versions": [
+    {
+      "commit": "c3380f5c973c74e13f7832504749d6ec11c5f491",
+      "tag": "0.3.0",
+      "parsed_at": "2026-10-28T14:48:39.176124+00:00"
+    }
+  ]
+}
