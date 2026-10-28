@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterlab/jupyterlab_pygments/commit/c3380f5c973c74e13f7832504749d6ec11c5f491",
       "git:hexsha": "c3380f5c973c74e13f7832504749d6ec11c5f491",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.3.0"
     },
     {
